@@ -1,0 +1,1031 @@
+{
+	
+	"included": [
+		{
+			"paging": {
+				"total": 2,
+				"start": 0,
+				"count": 10,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"*elements": [
+				"urn:li:fsd_profilePositionGroup:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,5a45f333326f8ff5beb9b477826a011a64112803)",
+				"urn:li:fsd_profilePositionGroup:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,9dd2afcd6e1c60b01fb05b610a1b52a4cb71f396)"
+			],
+			"entityUrn": "urn:li:collectionResponse:gejnB3eJA6KEybqwwgi54I7GeTATRD3uYj7Onuxgo8M&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePositionGroupsInjection"
+			],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:a/DBM585OSpb3vqafdhCBH+fZUoHm/T9pPB2ZmJwv1U&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileOrganizationsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 10,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:EJUcsQozsrUqaNy1G3Qz8yf6KWqDlQ6F7e/EYHDzR5s&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileTreasuryMediaItemsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:QTsC+bLOSMKYIIsHvRsrOmzxz2f5d1bGmh6CQYO2I+o&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePublicationsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 1,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"*elements": [
+				"urn:li:fsd_profilePosition:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1570035481)"
+			],
+			"entityUrn": "urn:li:collectionResponse:WGLkmg2ZWOK+SSoU90sS4wKFeLBVcbP3ZGznd/j3UfA&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePositionsInGroup"
+			],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:8QC7WKtzhTgjgiigwErA2XQT00yDVB6YRCjwyE/n5nI&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileHonorsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:2zQDEbIHzlE/6XFv+ACu14h6fOaSJ7rnyyq52ZeZtxQ&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileTestScoresInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 10,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:NZh4O40PPIOadp5osWvB7ldj9uvmjvNQO5lWEgY1XtE&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileTreasuryMediaItemsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:EJAvsA163S7euUhLVGkbMsQYCYXAm1EF8PRU9wdkxe4&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePatentsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 10,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:2vfIAB8HR78TRCEwS4kjGFE3toBW5IIVslVn9VS71UI&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileTreasuryMediaItemsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 5,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"*elements": [
+				"urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1)",
+				"urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,2)",
+				"urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,3)",
+				"urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,4)",
+				"urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,5)"
+			],
+			"entityUrn": "urn:li:collectionResponse:ljvOs0lmcNkk5cSpc/BE6A51QSN/lwp/OGFsnW7GRZA&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileSkillsInjection"
+			],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:dl1mxSOIy6KRb9+r5l0LEFudMrvBomcDBksubLPC2Bo&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileCertificationsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:IQzubDJ2T1TYNZMhwZy+UdIXrpD+0kBjCY2QcK4hlk4&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileProjectsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 2,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"*elements": [
+				"urn:li:fsd_profilePosition:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1570037074)",
+				"urn:li:fsd_profilePosition:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1570036300)"
+			],
+			"entityUrn": "urn:li:collectionResponse:WEVhd2YYy7GSUExcbR9YDlYJ5paZFJISM+bx3Os6S20&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePositionsInGroup"
+			],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 1,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"*elements": [
+				"urn:li:fsd_profileEducation:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,633378287)"
+			],
+			"entityUrn": "urn:li:collectionResponse:b58Lc2CXbKxVIfJRlZYjodn0DISYg+BK8McxnLUxh+U&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileEducationsInjection"
+			],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 1,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"*elements": [
+				"urn:li:fsd_profileLanguage:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1299933394)"
+			],
+			"entityUrn": "urn:li:collectionResponse:orfDUcy/Pb4dSgGGc++RSJyU+qaOOWhridzHHvvlKMg&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileLanguagesInjection"
+			],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:qfTAYaYaAJxbZdG98JEPjQvTcxyCCL8fgtppiRryKKI&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileVolunteerExperiencesInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 20,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:oFyLaFVLFhK6nBrpiMVjWKmZ4cmAYkJxdlpnob+/pfI&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileCoursesInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 10,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:hqcgX4fGTc33xGdLozQR9Vk7VeQItIDxuUXClBHSCLA&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileTreasuryMediaItemsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"paging": {
+				"total": 0,
+				"start": 0,
+				"count": 10,
+				"links": [],
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.FullPaging"
+				],
+				"$type": "com.linkedin.restli.common.CollectionMetadata"
+			},
+			"entityUrn": "urn:li:collectionResponse:jmRJ/XOlcz3G62Fa+bqvTPzwjkQ2BVlr3wAiOQlwQ3M&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileTreasuryMediaItemsInjection"
+			],
+			"elements": [],
+			"$type": "com.linkedin.restli.common.CollectionResponse"
+		},
+		{
+			"countryUrn": null,
+			"defaultLocalizedNameWithoutCountryName": "Vietnam",
+			"entityUrn": "urn:li:fsd_geo:104195383",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.Geo"
+			],
+			"defaultLocalizedName": "Vietnam",
+			"$type": "com.linkedin.voyager.dash.common.Geo"
+		},
+		{
+			"entityUrn": "urn:li:fsd_industry:133",
+			"name": "Wholesale",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.common.Industry"
+			],
+			"$type": "com.linkedin.voyager.dash.common.Industry"
+		},
+		{
+			"dateRange": {
+				"start": {
+					"year": 2013,
+					"$type": "com.linkedin.common.Date"
+				},
+				"end": {
+					"year": 2018,
+					"$type": "com.linkedin.common.Date"
+				},
+				"$type": "com.linkedin.common.DateRange"
+			},
+			"description": null,
+			"degreeName": "Bachelor&#39;s degree",
+			"multiLocaleGrade": null,
+			"*profileTreasuryMediaEducation": "urn:li:collectionResponse:hqcgX4fGTc33xGdLozQR9Vk7VeQItIDxuUXClBHSCLA&#61;",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileEducation"
+			],
+			"multiLocaleSchoolName": {
+				"en_US": "Ton Duc Thang University"
+			},
+			"schoolUrn": "urn:li:fsd_school:483043",
+			"$type": "com.linkedin.voyager.dash.identity.profile.Education",
+			"multiLocaleActivities": null,
+			"entityUrn": "urn:li:fsd_profileEducation:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,633378287)",
+			"activities": null,
+			"grade": null,
+			"*school": "urn:li:fsd_school:483043",
+			"fieldOfStudyUrn": null,
+			"multiLocaleFieldOfStudy": {
+				"en_US": "Foreign Languages "
+			},
+			"schoolName": "Ton Duc Thang University",
+			"multiLocaleDescription": null,
+			"fieldOfStudy": "Foreign Languages ",
+			"degreeUrn": "urn:li:fsd_degree:200",
+			"multiLocaleDegreeName": {
+				"en_US": "Bachelor&#39;s degree"
+			}
+		},
+		{
+			"entityUrn": "urn:li:fsd_employmentType:18",
+			"companyNameRequired": true,
+			"name": "Internship",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.EmploymentType"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.EmploymentType"
+		},
+		{
+			"entityUrn": "urn:li:fsd_employmentType:12",
+			"companyNameRequired": true,
+			"name": "Full-time",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.EmploymentType"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.EmploymentType"
+		},
+		{
+			"entityUrn": "urn:li:fsd_profileLanguage:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1299933394)",
+			"name": "English",
+			"multiLocaleName": {
+				"en_US": "English"
+			},
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileLanguage"
+			],
+			"proficiency": "PROFESSIONAL_WORKING",
+			"$type": "com.linkedin.voyager.dash.identity.profile.Language"
+		},
+		{
+			"dateRange": {
+				"start": {
+					"month": 3,
+					"year": 2018,
+					"$type": "com.linkedin.common.Date"
+				},
+				"end": {
+					"month": 6,
+					"year": 2018,
+					"$type": "com.linkedin.common.Date"
+				},
+				"$type": "com.linkedin.common.DateRange"
+			},
+			"multiLocaleCompanyName": {
+				"en_US": "MM Mega Market Vietnam"
+			},
+			"companyName": "MM Mega Market Vietnam",
+			"*company": "urn:li:fsd_company:24988070",
+			"title": "Recruiting Intern",
+			"companyUrn": "urn:li:fsd_company:24988070",
+			"*employmentType": "urn:li:fsd_employmentType:18",
+			"employmentTypeUrn": "urn:li:fsd_employmentType:18",
+			"entityUrn": "urn:li:fsd_profilePosition:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1570036300)",
+			"multiLocaleGeoLocationName": {
+				"en_US": "Vietnam"
+			},
+			"shouldShowSourceOfHireBadge": false,
+			"locationName": "Vietnam",
+			"*profileTreasuryMediaPosition": "urn:li:collectionResponse:NZh4O40PPIOadp5osWvB7ldj9uvmjvNQO5lWEgY1XtE&#61;",
+			"multiLocaleTitle": {
+				"en_US": "Recruiting Intern"
+			},
+			"geoUrn": "urn:li:fsd_geo:104195383",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePosition"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Position",
+			"regionUrn": "urn:li:fsd_region:(vn,0)",
+			"geoLocationName": "Vietnam",
+			"multiLocaleLocationName": {
+				"en_US": "Vietnam"
+			}
+		},
+		{
+			"dateRange": {
+				"start": {
+					"month": 1,
+					"year": 2020,
+					"$type": "com.linkedin.common.Date"
+				},
+				"$type": "com.linkedin.common.DateRange"
+			},
+			"multiLocaleCompanyName": {
+				"en_US": "MM Mega Market Vietnam"
+			},
+			"companyName": "MM Mega Market Vietnam",
+			"*company": "urn:li:fsd_company:24988070",
+			"title": "Talent Acquisition Executive",
+			"companyUrn": "urn:li:fsd_company:24988070",
+			"*employmentType": "urn:li:fsd_employmentType:12",
+			"employmentTypeUrn": "urn:li:fsd_employmentType:12",
+			"entityUrn": "urn:li:fsd_profilePosition:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1570035481)",
+			"multiLocaleGeoLocationName": {
+				"en_US": "Vietnam"
+			},
+			"shouldShowSourceOfHireBadge": false,
+			"locationName": "Vietnam",
+			"*profileTreasuryMediaPosition": "urn:li:collectionResponse:2vfIAB8HR78TRCEwS4kjGFE3toBW5IIVslVn9VS71UI&#61;",
+			"multiLocaleTitle": {
+				"en_US": "Talent Acquisition Executive"
+			},
+			"geoUrn": "urn:li:fsd_geo:104195383",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePosition"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Position",
+			"regionUrn": "urn:li:fsd_region:(vn,0)",
+			"geoLocationName": "Vietnam",
+			"multiLocaleLocationName": {
+				"en_US": "Vietnam"
+			}
+		},
+		{
+			"dateRange": {
+				"start": {
+					"month": 6,
+					"year": 2018,
+					"$type": "com.linkedin.common.Date"
+				},
+				"end": {
+					"month": 9,
+					"year": 2019,
+					"$type": "com.linkedin.common.Date"
+				},
+				"$type": "com.linkedin.common.DateRange"
+			},
+			"multiLocaleCompanyName": {
+				"en_US": "MM Mega Market Vietnam"
+			},
+			"companyName": "MM Mega Market Vietnam",
+			"*company": "urn:li:fsd_company:24988070",
+			"title": "Human Resources Staff",
+			"companyUrn": "urn:li:fsd_company:24988070",
+			"*employmentType": "urn:li:fsd_employmentType:12",
+			"employmentTypeUrn": "urn:li:fsd_employmentType:12",
+			"entityUrn": "urn:li:fsd_profilePosition:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1570037074)",
+			"multiLocaleGeoLocationName": {
+				"en_US": "Vietnam"
+			},
+			"shouldShowSourceOfHireBadge": false,
+			"locationName": "Vietnam",
+			"*profileTreasuryMediaPosition": "urn:li:collectionResponse:jmRJ/XOlcz3G62Fa+bqvTPzwjkQ2BVlr3wAiOQlwQ3M&#61;",
+			"multiLocaleTitle": {
+				"en_US": "Human Resources Staff"
+			},
+			"geoUrn": "urn:li:fsd_geo:104195383",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePosition"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Position",
+			"regionUrn": "urn:li:fsd_region:(vn,0)",
+			"geoLocationName": "Vietnam",
+			"multiLocaleLocationName": {
+				"en_US": "Vietnam"
+			}
+		},
+		{
+			"*profilePositionInPositionGroup": "urn:li:collectionResponse:WGLkmg2ZWOK+SSoU90sS4wKFeLBVcbP3ZGznd/j3UfA&#61;",
+			"dateRange": {
+				"start": {
+					"month": 1,
+					"year": 2020,
+					"$type": "com.linkedin.common.Date"
+				},
+				"$type": "com.linkedin.common.DateRange"
+			},
+			"multiLocaleCompanyName": {
+				"en_US": "MM Mega Market Vietnam"
+			},
+			"companyName": "MM Mega Market Vietnam",
+			"*company": "urn:li:fsd_company:24988070",
+			"companyUrn": "urn:li:fsd_company:24988070",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePositionGroup"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.PositionGroup",
+			"entityUrn": "urn:li:fsd_profilePositionGroup:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,5a45f333326f8ff5beb9b477826a011a64112803)"
+		},
+		{
+			"*profilePositionInPositionGroup": "urn:li:collectionResponse:WEVhd2YYy7GSUExcbR9YDlYJ5paZFJISM+bx3Os6S20&#61;",
+			"dateRange": {
+				"start": {
+					"month": 3,
+					"year": 2018,
+					"$type": "com.linkedin.common.Date"
+				},
+				"end": {
+					"month": 9,
+					"year": 2019,
+					"$type": "com.linkedin.common.Date"
+				},
+				"$type": "com.linkedin.common.DateRange"
+			},
+			"multiLocaleCompanyName": {
+				"en_US": "MM Mega Market Vietnam"
+			},
+			"companyName": "MM Mega Market Vietnam",
+			"*company": "urn:li:fsd_company:24988070",
+			"companyUrn": "urn:li:fsd_company:24988070",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfilePositionGroup"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.PositionGroup",
+			"entityUrn": "urn:li:fsd_profilePositionGroup:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,9dd2afcd6e1c60b01fb05b610a1b52a4cb71f396)"
+		},
+		{
+			"birthDateOn": null,
+			"multiLocalePhoneticLastName": null,
+			"objectUrn": "urn:li:member:786361996",
+			"multiLocaleLastName": {
+				"en_US": "(Sabi)"
+			},
+			"*profilePositionGroups": "urn:li:collectionResponse:gejnB3eJA6KEybqwwgi54I7GeTATRD3uYj7Onuxgo8M&#61;",
+			"*profileCertifications": "urn:li:collectionResponse:dl1mxSOIy6KRb9+r5l0LEFudMrvBomcDBksubLPC2Bo&#61;",
+			"pronounUnion": null,
+			"multiLocaleFirstNamePronunciationHint": {},
+			"multiLocaleLastNamePronunciationHint": {},
+			"*profileTestScores": "urn:li:collectionResponse:2zQDEbIHzlE/6XFv+ACu14h6fOaSJ7rnyyq52ZeZtxQ&#61;",
+			"tempStatusExpiredAtUnion": null,
+			"multiLocaleFirstName": {
+				"en_US": "Ngoc Nguyen"
+			},
+			"multiLocaleTempStatus": null,
+			"companyNameOnProfileTopCardShown": true,
+			"*profileLanguages": "urn:li:collectionResponse:orfDUcy/Pb4dSgGGc++RSJyU+qaOOWhridzHHvvlKMg&#61;",
+			"state": null,
+			"publicIdentifier": "ngoc-sabi",
+			"trackingId": "Xeq1u16JT/eB577/qlCqjA&#61;&#61;",
+			"phoneticFirstName": null,
+			"multiLocaleSummary": null,
+			"firstNamePronunciationHint": null,
+			"lastNamePronunciationHint": null,
+			"versionTag": "3670420609",
+			"*profilePatents": "urn:li:collectionResponse:EJAvsA163S7euUhLVGkbMsQYCYXAm1EF8PRU9wdkxe4&#61;",
+			"associatedHashtagsCopy": null,
+			"profilePicture": {
+				"displayImageWithFrameReferenceUnion": {
+					"vectorImage": {
+						"$recipeTypes": [
+							"com.linkedin.deco.recipe.anonymous.Anon1762519396"
+						],
+						"rootUrl": "https://media-exp1.licdn.com/dms/image/C5635AQGKK1WwJZfrsQ/profile-framedphoto-shrink_",
+						"artifacts": [
+							{
+								"width": 200,
+								"fileIdentifyingUrlPathSegment": "200_200/0/1620701976264?e&#61;1621162800&amp;v&#61;beta&amp;t&#61;sxW_8k4GqZC2w0v4p9pm0ayjOGX8J1UeneNSNEcbwnI",
+								"expiresAt": 1621162800000,
+								"height": 200,
+								"$type": "com.linkedin.common.VectorArtifact"
+							},
+							{
+								"width": 400,
+								"fileIdentifyingUrlPathSegment": "400_400/0/1620701976264?e&#61;1621162800&amp;v&#61;beta&amp;t&#61;YVVT9wZSLrsJ9puJX95g8u-mCkOM6FAQfHZoJKC1bOY",
+								"expiresAt": 1621162800000,
+								"height": 400,
+								"$type": "com.linkedin.common.VectorArtifact"
+							},
+							{
+								"width": 800,
+								"fileIdentifyingUrlPathSegment": "800_800/0/1620701976264?e&#61;1621162800&amp;v&#61;beta&amp;t&#61;YsiHeUfPFXu10O9qO91IrtoYBvxVTVem0feCIi0GkVk",
+								"expiresAt": 1621162800000,
+								"height": 800,
+								"$type": "com.linkedin.common.VectorArtifact"
+							},
+							{
+								"width": 100,
+								"fileIdentifyingUrlPathSegment": "100_100/0/1620701976264?e&#61;1621162800&amp;v&#61;beta&amp;t&#61;us43Hivm9_7NSPnW-qMxshvlRlSsCNzNOXBL37cgkRY",
+								"expiresAt": 1621162800000,
+								"height": 100,
+								"$type": "com.linkedin.common.VectorArtifact"
+							}
+						],
+						"$type": "com.linkedin.common.VectorImage"
+					}
+				},
+				"displayImageReference": {
+					"vectorImage": {
+						"$recipeTypes": [
+							"com.linkedin.deco.recipe.anonymous.Anon1762519396"
+						],
+						"rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEiBO-wFZcYLA/profile-displayphoto-shrink_",
+						"artifacts": [
+							{
+								"width": 100,
+								"fileIdentifyingUrlPathSegment": "100_100/0/1619925420928?e&#61;1626307200&amp;v&#61;beta&amp;t&#61;CV168HaYMfMEpDtv_ZrOWGEfuABe5HmGjGCxKxapbHk",
+								"expiresAt": 1626307200000,
+								"height": 100,
+								"$type": "com.linkedin.common.VectorArtifact"
+							},
+							{
+								"width": 200,
+								"fileIdentifyingUrlPathSegment": "200_200/0/1619925420928?e&#61;1626307200&amp;v&#61;beta&amp;t&#61;F95_IthgzdSaewLgTbDjh4teWqwXCIzFcqtR-Bhp2fI",
+								"expiresAt": 1626307200000,
+								"height": 200,
+								"$type": "com.linkedin.common.VectorArtifact"
+							},
+							{
+								"width": 400,
+								"fileIdentifyingUrlPathSegment": "400_400/0/1619925420928?e&#61;1626307200&amp;v&#61;beta&amp;t&#61;Q6htcuJamfpf7cfKSLDHeKXZngK7P8LDn3RyJVcUIgg",
+								"expiresAt": 1626307200000,
+								"height": 400,
+								"$type": "com.linkedin.common.VectorArtifact"
+							},
+							{
+								"width": 800,
+								"fileIdentifyingUrlPathSegment": "800_800/0/1619925420928?e&#61;1626307200&amp;v&#61;beta&amp;t&#61;ejv1h06_Nku5OILxzCKTT4S1WH4CQ5vnwPa3PG0Q2Y0",
+								"expiresAt": 1626307200000,
+								"height": 800,
+								"$type": "com.linkedin.common.VectorArtifact"
+							}
+						],
+						"$type": "com.linkedin.common.VectorImage"
+					}
+				},
+				"frameType": "HIRING",
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.identity.profile.ProfilePhotoDecoSpecEditableProfilePicture"
+				],
+				"displayImageUrn": "urn:li:digitalmediaAsset:C5603AQEiBO-wFZcYLA",
+				"photoFilterEditInfo": {
+					"bottomLeft": {
+						"x": 1.4901161193847657e-8,
+						"y": 0.999409556388855,
+						"$type": "com.linkedin.common.Coordinate2D"
+					},
+					"vignette": 0.0,
+					"bottomRight": {
+						"x": 1.0000001192092896,
+						"y": 0.999409556388855,
+						"$type": "com.linkedin.common.Coordinate2D"
+					},
+					"topRight": {
+						"x": 1.0000001192092896,
+						"y": 0.24940961599349976,
+						"$type": "com.linkedin.common.Coordinate2D"
+					},
+					"$recipeTypes": [
+						"com.linkedin.deco.recipe.anonymous.Anon1639480780"
+					],
+					"$type": "com.linkedin.voyager.dash.identity.profile.PhotoFilterEditInfo",
+					"saturation": 0.0,
+					"brightness": 0.0,
+					"photoFilterType": "ORIGINAL",
+					"contrast": 0.0,
+					"topLeft": {
+						"x": 1.4901161193847657e-8,
+						"y": 0.24940961599349976,
+						"$type": "com.linkedin.common.Coordinate2D"
+					}
+				},
+				"$type": "com.linkedin.voyager.dash.identity.profile.PhotoFilterPicture"
+			},
+			"firstName": "Ngoc Nguyen",
+			"*profileOrganizations": "urn:li:collectionResponse:a/DBM585OSpb3vqafdhCBH+fZUoHm/T9pPB2ZmJwv1U&#61;",
+			"multiLocaleMaidenName": null,
+			"*profileHonors": "urn:li:collectionResponse:8QC7WKtzhTgjgiigwErA2XQT00yDVB6YRCjwyE/n5nI&#61;",
+			"*profileSkills": "urn:li:collectionResponse:ljvOs0lmcNkk5cSpc/BE6A51QSN/lwp/OGFsnW7GRZA&#61;",
+			"multiLocaleHeadline": {
+				"en_US": "Looking for E-commerce Senior Executive, Application Specialist"
+			},
+			"*profileProjects": "urn:li:collectionResponse:IQzubDJ2T1TYNZMhwZy+UdIXrpD+0kBjCY2QcK4hlk4&#61;",
+			"*profilePublications": "urn:li:collectionResponse:QTsC+bLOSMKYIIsHvRsrOmzxz2f5d1bGmh6CQYO2I+o&#61;",
+			"memorialized": false,
+			"lastName": "(Sabi)",
+			"multiLocalePhoneticFirstName": null,
+			"volunteerCauses": null,
+			"*industry": "urn:li:fsd_industry:133",
+			"showPremiumSubscriberBadge": false,
+			"tempStatusEmoji": null,
+			"maidenName": null,
+			"geoLocationBackfilled": false,
+			"multiLocaleFullNamePronunciationAudio": {},
+			"phoneticLastName": null,
+			"premium": false,
+			"influencer": false,
+			"*profileCourses": "urn:li:collectionResponse:oFyLaFVLFhK6nBrpiMVjWKmZ4cmAYkJxdlpnob+/pfI&#61;",
+			"entityUrn": "urn:li:fsd_profile:ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA",
+			"*profileEducations": "urn:li:collectionResponse:b58Lc2CXbKxVIfJRlZYjodn0DISYg+BK8McxnLUxh+U&#61;",
+			"headline": "Looking for E-commerce Senior Executive, Application Specialist",
+			"fullNamePronunciationAudio": null,
+			"summary": null,
+			"creator": false,
+			"supportedLocales": [
+				{
+					"country": "US",
+					"language": "en",
+					"$recipeTypes": [
+						"com.linkedin.voyager.dash.deco.common.Locale"
+					],
+					"$type": "com.linkedin.common.Locale"
+				}
+			],
+			"locationName": null,
+			"address": null,
+			"multiLocaleAddress": null,
+			"*profileVolunteerExperiences": "urn:li:collectionResponse:qfTAYaYaAJxbZdG98JEPjQvTcxyCCL8fgtppiRryKKI&#61;",
+			"educationOnProfileTopCardShown": true,
+			"industryUrn": "urn:li:fsd_industry:133",
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileWithEntitiescom.linkedin.voyager.dash.deco.identity.profile.FullProfileWithEntities"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Profile",
+			"geoLocation": {
+				"*geo": "urn:li:fsd_geo:104195383",
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.identity.profile.ProfileGeoLocation"
+				],
+				"geoUrn": "urn:li:fsd_geo:104195383",
+				"$type": "com.linkedin.voyager.dash.identity.profile.ProfileGeoLocation"
+			},
+			"tempStatus": null,
+			"*profileTreasuryMediaProfile": "urn:li:collectionResponse:EJUcsQozsrUqaNy1G3Qz8yf6KWqDlQ6F7e/EYHDzR5s&#61;",
+			"location": {
+				"countryCode": "vn",
+				"$type": "com.linkedin.voyager.dash.identity.profile.ProfileLocation"
+			},
+			"primaryLocale": {
+				"country": "US",
+				"language": "en",
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.Locale"
+				],
+				"$type": "com.linkedin.common.Locale"
+			},
+			"backgroundPicture": null
+		},
+		{
+			"entityUrn": "urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,1)",
+			"name": "Human Resources (HR)",
+			"multiLocaleName": {
+				"en_US": "Human Resources (HR)"
+			},
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileSkill"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Skill"
+		},
+		{
+			"entityUrn": "urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,5)",
+			"name": "Branding",
+			"multiLocaleName": {
+				"en_US": "Branding"
+			},
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileSkill"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Skill"
+		},
+		{
+			"entityUrn": "urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,3)",
+			"name": "Employer Branding",
+			"multiLocaleName": {
+				"en_US": "Employer Branding"
+			},
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileSkill"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Skill"
+		},
+		{
+			"entityUrn": "urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,4)",
+			"name": "English",
+			"multiLocaleName": {
+				"en_US": "English"
+			},
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileSkill"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Skill"
+		},
+		{
+			"entityUrn": "urn:li:fsd_skill:(ACoAAC7e7owBlqvKVwqkA8AopvjGCVYP7jjAPBA,2)",
+			"name": "Recruiting",
+			"multiLocaleName": {
+				"en_US": "Recruiting"
+			},
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.FullProfileSkill"
+			],
+			"$type": "com.linkedin.voyager.dash.identity.profile.Skill"
+		},
+		{
+			"industry": {
+				"*urn:li:fsd_industry:133": "urn:li:fsd_industry:133"
+			},
+			"industryUrns": [
+				"urn:li:fsd_industry:133"
+			],
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.identity.profile.LinkablePositionCompany"
+			],
+			"url": "https://www.linkedin.com/company/mm-mega-market-vietnam/",
+			"$type": "com.linkedin.voyager.dash.organization.Company",
+			"employeeCountRange": {
+				"start": 1001,
+				"end": 5000,
+				"$recipeTypes": [
+					"com.linkedin.voyager.dash.deco.common.IntegerRange"
+				],
+				"$type": "com.linkedin.common.IntegerRange"
+			},
+			"entityUrn": "urn:li:fsd_company:24988070",
+			"name": "MM Mega Market Vietnam",
+			"logo": {
+				"vectorImage": {
+					"$recipeTypes": [
+						"com.linkedin.deco.recipe.anonymous.Anon1116930124"
+					],
+					"rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFaEsLcLgYT4Q/company-logo_",
+					"artifacts": [
+						{
+							"width": 200,
+							"$recipeTypes": [
+								"com.linkedin.voyager.dash.deco.identity.profile.VectorArtifact"
+							],
+							"fileIdentifyingUrlPathSegment": "200_200/0/1519861876385?e&#61;1629331200&amp;v&#61;beta&amp;t&#61;pPSexUImymU5qYN_WxIomiuFN6UBJEm6RrBnVBqt5-A",
+							"expiresAt": 1629331200000,
+							"height": 200,
+							"$type": "com.linkedin.common.VectorArtifact"
+						},
+						{
+							"width": 100,
+							"$recipeTypes": [
+								"com.linkedin.voyager.dash.deco.identity.profile.VectorArtifact"
+							],
+							"fileIdentifyingUrlPathSegment": "100_100/0/1519861876385?e&#61;1629331200&amp;v&#61;beta&amp;t&#61;3FXzJ286B9ph-hL1JR2UkRz7TZDu_StBeyfVGO_6AQ4",
+							"expiresAt": 1629331200000,
+							"height": 100,
+							"$type": "com.linkedin.common.VectorArtifact"
+						},
+						{
+							"width": 400,
+							"$recipeTypes": [
+								"com.linkedin.voyager.dash.deco.identity.profile.VectorArtifact"
+							],
+							"fileIdentifyingUrlPathSegment": "400_400/0/1519861876385?e&#61;1629331200&amp;v&#61;beta&amp;t&#61;ckSgRHiwURe6NtrxOlocTTJKkpREAV_08UzJvsB-B-E",
+							"expiresAt": 1629331200000,
+							"height": 400,
+							"$type": "com.linkedin.common.VectorArtifact"
+						}
+					],
+					"$type": "com.linkedin.common.VectorImage"
+				}
+			},
+			"universalName": "mm-mega-market-vietnam"
+		},
+		{
+			"active": true,
+			"$recipeTypes": [
+				"com.linkedin.voyager.dash.deco.organization.MiniSchool"
+			],
+			"url": "https://www.linkedin.com/school/ton-duc-thang-university/",
+			"$type": "com.linkedin.voyager.dash.organization.School",
+			"entityUrn": "urn:li:fsd_school:483043",
+			"name": "Ton Duc Thang University",
+			"logo": {
+				"vectorImage": {
+					"$recipeTypes": [
+						"com.linkedin.voyager.dash.deco.organization.VectorImage"
+					],
+					"rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEESqlsHcZ9zQ/company-logo_",
+					"artifacts": [
+						{
+							"width": 200,
+							"expiresAt": 1629331200000,
+							"fileIdentifyingUrlPathSegment": "200_200/0/1567678219585?e&#61;1629331200&amp;v&#61;beta&amp;t&#61;EpfMYzhCIdz-lwQp0Frv6ypNSxSV2Htl-gpsc48aWf8",
+							"$type": "com.linkedin.common.VectorArtifact",
+							"height": 200
+						},
+						{
+							"width": 100,
+							"expiresAt": 1629331200000,
+							"fileIdentifyingUrlPathSegment": "100_100/0/1567678219585?e&#61;1629331200&amp;v&#61;beta&amp;t&#61;487rUzIkLn5dMp4q3QS1h_roMZndPpQWMgrBOaORGw8",
+							"$type": "com.linkedin.common.VectorArtifact",
+							"height": 100
+						},
+						{
+							"width": 400,
+							"expiresAt": 1629331200000,
+							"fileIdentifyingUrlPathSegment": "400_400/0/1567678219585?e&#61;1629331200&amp;v&#61;beta&amp;t&#61;WUo3CPe4Yfo3HyMzb3hF11UHLstIzykRD-XTnX1GfII",
+							"$type": "com.linkedin.common.VectorArtifact",
+							"height": 400
+						}
+					],
+					"$type": "com.linkedin.common.VectorImage"
+				}
+			}
+		}
+	]
+}
